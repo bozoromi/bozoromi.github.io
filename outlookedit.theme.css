@@ -13,19 +13,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@100;300;400;500;700&display=swap');
 @import url('https://maendisease.github.io/Outlook/Outlook.css');
 @import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
-
 :root {
-  --home-image: url('https://maendisease.github.io/Outlook/illustrations/homeimage-default.avif');
-  --accent-hue: 32;
-  --accent-saturation: 85%;
-  --accent-brightness: 45%;
-  --gradient-toggle: 0;
-  --gradient-hue-shift: 0.2;
-  --gradient-saturation: 50%;
-  --gradient-deg: 179.52deg;
-  --customFont: Gaegu;
+    --home-image: url('https://maendisease.github.io/Outlook/illustrations/homeimage-default.avif');
+    --accent-hue: 32;
+    --accent-saturation: 85%;
+    --accent-brightness: 45%;
+    --gradient-toggle: 0;
+    --gradient-hue-shift: 0.2;
+    --gradient-saturation: 50%;
+    --gradient-deg: 179.52deg;
+    --customFont: Gaegu;
 }
+
 
 /* Any custom CSS below here */
 
-
+.container-YkUktl::before {
+    content: "i love women 😎";
+    font-weight: 600;
+    font-family: var(--font-display);
+    font-size: 18px;
+    line-height: var(--titlebar-height);
+    margin-right: auto;
+    color: white;
+    margin-left: 8px;
+    -webkit-app-region: drag;
+}
