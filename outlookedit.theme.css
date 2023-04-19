@@ -21,9 +21,9 @@
 @import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
 :root {
     --home-image: url('https://maendisease.github.io/Outlook/illustrations/homeimage-default.avif');
-    --accent-hue: 32;
-    --accent-saturation: 85%;
-    --accent-brightness: 45%;
+    --accent-hue: 250;
+    --accent-saturation: 100%;
+    --accent-brightness: 80%;
     --gradient-toggle: 0;
     --gradient-hue-shift: 0.2;
     --gradient-saturation: 50%;
