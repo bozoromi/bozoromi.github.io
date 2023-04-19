@@ -10,6 +10,7 @@
  * @BDEditor Outlook
 */
 
+@import url(https://maendisease.github.io/BetterDiscordStuff/css/ChatBubbles.css);
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
@@ -43,4 +44,9 @@
     color: white;
     margin-left: 10px;
     -webkit-app-region: drag;
+}
+
+.theme-dark,
+.theme-light {
+    font-size: 32px;
 }
