@@ -10,6 +10,7 @@
  * @BDEditor Outlook
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Darumadrop+One&display=swap');
 @import url('https://discordstyles.github.io/SoftX/RadialGlow.css');
 @import url(https://maendisease.github.io/BetterDiscordStuff/css/ChatBubbles.css);
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');
@@ -20,24 +21,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Gaegu:wght@100;300;400;500;700&display=swap');
 @import url('https://maendisease.github.io/Outlook/Outlook.css');
 @import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://fonts.googleapis.com/css2?family=Tsukimi+Rounded:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@500&display=swap');
+
 
 .search-39IXmY {
     margin: 0;
     position: fixed;
     top: 8px;
-    left: 400px;
+    left: 450px;
 }
+
 
 :root {
     --home-image: url('https://media.tenor.com/D76vkls8qF8AAAAd/bocchi-the-rock-bocchi.gif');
-    --accent-hue: 250;
+    --accent-hue: 25;
     --accent-saturation: 100%;
-    --accent-brightness: 80%;
+    --accent-brightness: 70%;
     --gradient-toggle: 0;
-    --gradient-hue-shift: 0.2;
+    --gradient-hue-shift: 0.1;
     --gradient-saturation: 50%;
-    --gradient-deg: 179.52deg;
-    --customFont: Fredoka;
+    --gradient-deg: 90deg;
+    --customFont: Grandstander;
 }
 
 :root {
@@ -68,5 +74,5 @@
 
 .theme-dark,
 .theme-light {
-    font-size: 32px;
+    font-size: 30px;
 }
